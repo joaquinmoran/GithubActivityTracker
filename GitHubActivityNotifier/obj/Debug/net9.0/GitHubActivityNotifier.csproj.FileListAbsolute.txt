@@ -1,0 +1,14 @@
+/Users/joaquinmoran/Documents/githubUserActivity/GitHubActivityNotifier/bin/Debug/net9.0/GitHubActivityNotifier
+/Users/joaquinmoran/Documents/githubUserActivity/GitHubActivityNotifier/bin/Debug/net9.0/GitHubActivityNotifier.deps.json
+/Users/joaquinmoran/Documents/githubUserActivity/GitHubActivityNotifier/bin/Debug/net9.0/GitHubActivityNotifier.runtimeconfig.json
+/Users/joaquinmoran/Documents/githubUserActivity/GitHubActivityNotifier/bin/Debug/net9.0/GitHubActivityNotifier.dll
+/Users/joaquinmoran/Documents/githubUserActivity/GitHubActivityNotifier/bin/Debug/net9.0/GitHubActivityNotifier.pdb
+/Users/joaquinmoran/Documents/githubUserActivity/GitHubActivityNotifier/obj/Debug/net9.0/GitHubActivityNotifier.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaquinmoran/Documents/githubUserActivity/GitHubActivityNotifier/obj/Debug/net9.0/GitHubActivityNotifier.AssemblyInfoInputs.cache
+/Users/joaquinmoran/Documents/githubUserActivity/GitHubActivityNotifier/obj/Debug/net9.0/GitHubActivityNotifier.AssemblyInfo.cs
+/Users/joaquinmoran/Documents/githubUserActivity/GitHubActivityNotifier/obj/Debug/net9.0/GitHubActivityNotifier.csproj.CoreCompileInputs.cache
+/Users/joaquinmoran/Documents/githubUserActivity/GitHubActivityNotifier/obj/Debug/net9.0/GitHubActivityNotifier.dll
+/Users/joaquinmoran/Documents/githubUserActivity/GitHubActivityNotifier/obj/Debug/net9.0/refint/GitHubActivityNotifier.dll
+/Users/joaquinmoran/Documents/githubUserActivity/GitHubActivityNotifier/obj/Debug/net9.0/GitHubActivityNotifier.pdb
+/Users/joaquinmoran/Documents/githubUserActivity/GitHubActivityNotifier/obj/Debug/net9.0/GitHubActivityNotifier.genruntimeconfig.cache
+/Users/joaquinmoran/Documents/githubUserActivity/GitHubActivityNotifier/obj/Debug/net9.0/ref/GitHubActivityNotifier.dll
