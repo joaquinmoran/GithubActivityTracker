@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/joaquinmoran/Documents/githubUserActivity/GitHubActivityNotifier/GitHubActivityNotifier.csproj",
+      "projectUniqueName": "/Users/joaquinmoran/Documents/githubUserActivity/GithubActivityTracker/GitHubActivityNotifier/GitHubActivityNotifier.csproj",
       "projectName": "GitHubActivityNotifier",
-      "projectPath": "/Users/joaquinmoran/Documents/githubUserActivity/GitHubActivityNotifier/GitHubActivityNotifier.csproj",
+      "projectPath": "/Users/joaquinmoran/Documents/githubUserActivity/GithubActivityTracker/GitHubActivityNotifier/GitHubActivityNotifier.csproj",
       "packagesPath": "/Users/joaquinmoran/.nuget/packages/",
-      "outputPath": "/Users/joaquinmoran/Documents/githubUserActivity/GitHubActivityNotifier/obj/",
+      "outputPath": "/Users/joaquinmoran/Documents/githubUserActivity/GithubActivityTracker/GitHubActivityNotifier/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/joaquinmoran/.nuget/NuGet/NuGet.Config"
